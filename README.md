@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ay1874004-svg/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ay1874004-svg/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/ay1874004-svg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -78,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ay1874004-svg/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/ay1874004-svg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
