@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ay1874004-svg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ay1874004-svg/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ay1874004-svg/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ay1874004-svg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ay1874004-svg/LeetCode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ay1874004-svg/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ay1874004-svg/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ay1874004-svg/LeetCode/tree/master/1260-shift-2d-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
