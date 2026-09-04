@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ay1874004-svg/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ay1874004-svg/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/adarsh-0045/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/ay1874004-svg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ay1874004-svg/LeetCode/tree/master/0986-interval-list-intersections) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ay1874004-svg/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/adarsh-0045/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/adarsh-0045/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/adarsh-0045/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ay1874004-svg/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/ay1874004-svg/LeetCode/tree/master/0796-rotate-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ay1874004-svg/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/adarsh-0045/LeetCode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/ay1874004-svg/LeetCode/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ay1874004-svg/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
