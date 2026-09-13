@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ay1874004-svg/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adarsh-0045/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/adarsh-0045/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ay1874004-svg/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ay1874004-svg/LeetCode/tree/master/0057-insert-interval) |
@@ -329,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adarsh-0045/LeetCode/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/adarsh-0045/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/adarsh-0045/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
