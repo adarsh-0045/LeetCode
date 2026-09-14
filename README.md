@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/adarsh-0045/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ay1874004-svg/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/adarsh-0045/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/ay1874004-svg/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/ay1874004-svg/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -340,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/adarsh-0045/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0052-n-queens-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/adarsh-0045/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
