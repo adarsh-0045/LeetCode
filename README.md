@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/adarsh-0045/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-0045/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/adarsh-0045/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ay1874004-svg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/adarsh-0045/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-0045/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ay1874004-svg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0287-find-the-duplicate-number) |
