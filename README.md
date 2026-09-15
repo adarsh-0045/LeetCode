@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ay1874004-svg/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adarsh-0045/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/adarsh-0045/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/adarsh-0045/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ay1874004-svg/LeetCode/tree/master/0056-merge-intervals) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ay1874004-svg/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adarsh-0045/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/adarsh-0045/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ay1874004-svg/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adarsh-0045/LeetCode/tree/master/0125-valid-palindrome) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ay1874004-svg/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adarsh-0045/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/adarsh-0045/LeetCode/tree/master/0392-is-subsequence) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ay1874004-svg/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ay1874004-svg/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/adarsh-0045/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarsh-0045/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ay1874004-svg/LeetCode/tree/master/0739-daily-temperatures) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adarsh-0045/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ay1874004-svg/LeetCode/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
