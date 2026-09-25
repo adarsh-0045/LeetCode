@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarsh-0045/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/adarsh-0045/LeetCode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/adarsh-0045/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-0045/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adarsh-0045/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adarsh-0045/LeetCode/tree/master/0204-count-primes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ay1874004-svg/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ay1874004-svg/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/adarsh-0045/LeetCode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/adarsh-0045/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ay1874004-svg/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -413,4 +415,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarsh-0045/LeetCode/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/adarsh-0045/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/adarsh-0045/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/adarsh-0045/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
