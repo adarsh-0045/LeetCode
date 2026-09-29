@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adarsh-0045/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/adarsh-0045/LeetCode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/ay1874004-svg/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/adarsh-0045/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/adarsh-0045/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/adarsh-0045/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ay1874004-svg/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
