@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/adarsh-0045/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/adarsh-0045/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarsh-0045/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adarsh-0045/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/adarsh-0045/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adarsh-0045/LeetCode/tree/master/0204-count-primes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ay1874004-svg/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ay1874004-svg/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/adarsh-0045/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ay1874004-svg/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/adarsh-0045/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adarsh-0045/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adarsh-0045/LeetCode/tree/master/0242-valid-anagram) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/adarsh-0045/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -467,5 +472,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
