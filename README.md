@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adarsh-0045/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/adarsh-0045/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ay1874004-svg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/adarsh-0045/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/adarsh-0045/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/adarsh-0045/LeetCode/tree/master/0260-single-number-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/adarsh-0045/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/adarsh-0045/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adarsh-0045/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/adarsh-0045/LeetCode/tree/master/0383-ransom-note) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/adarsh-0045/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adarsh-0045/LeetCode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/adarsh-0045/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adarsh-0045/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adarsh-0045/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
