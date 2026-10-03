@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adarsh-0045/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ay1874004-svg/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/adarsh-0045/LeetCode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/adarsh-0045/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ay1874004-svg/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/adarsh-0045/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adarsh-0045/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/adarsh-0045/LeetCode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/adarsh-0045/LeetCode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/adarsh-0045/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/adarsh-0045/LeetCode/tree/master/0392-is-subsequence) |
