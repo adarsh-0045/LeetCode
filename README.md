@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/adarsh-0045/LeetCode/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/adarsh-0045/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/adarsh-0045/LeetCode/tree/master/0189-rotate-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/adarsh-0045/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0287-find-the-duplicate-number) |
