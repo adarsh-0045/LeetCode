@@ -2,7 +2,7 @@ class Solution {
 public:
     int divide(int dividend, int divisor) {
         if(divisor==0) 
-        throw runtime_error("Dicision by zero");
+        throw runtime_error("Division by zero");
         if(dividend==INT_MIN && divisor==-1) return INT_MAX;
         bool negative=(dividend<0)^(divisor<0);
         long long a=llabs((long long)dividend);
