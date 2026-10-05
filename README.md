@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ay1874004-svg/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/ay1874004-svg/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/adarsh-0045/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ay1874004-svg/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ay1874004-svg/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ay1874004-svg/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/adarsh-0045/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-0045/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adarsh-0045/LeetCode/tree/master/3904-smallest-stable-index-ii) |
