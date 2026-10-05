@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/adarsh-0045/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/adarsh-0045/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/adarsh-0045/LeetCode/tree/master/0338-counting-bits) |
