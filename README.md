@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adarsh-0045/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/adarsh-0045/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ay1874004-svg/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/adarsh-0045/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0137-single-number-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/adarsh-0045/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/adarsh-0045/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/adarsh-0045/LeetCode/tree/master/0260-single-number-iii) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adarsh-0045/LeetCode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/adarsh-0045/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/adarsh-0045/LeetCode/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
