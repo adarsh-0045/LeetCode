@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ay1874004-svg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ay1874004-svg/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ay1874004-svg/LeetCode/tree/master/0986-interval-list-intersections) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ay1874004-svg/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-0045/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarsh-0045/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1987-number-of-unique-good-subsequences](https://github.com/adarsh-0045/LeetCode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/adarsh-0045/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ay1874004-svg/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-0045/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarsh-0045/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/ay1874004-svg/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/adarsh-0045/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-0045/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-0045/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Recursion
 |  |
 | ------- |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adarsh-0045/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-0045/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarsh-0045/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
