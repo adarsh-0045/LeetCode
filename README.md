@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarsh-0045/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adarsh-0045/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adarsh-0045/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/adarsh-0045/LeetCode/tree/master/2951-find-the-peaks) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ay1874004-svg/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-0045/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/adarsh-0045/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ay1874004-svg/LeetCode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adarsh-0045/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/adarsh-0045/LeetCode/tree/master/2951-find-the-peaks) |
 ## Brainteaser
 |  |
