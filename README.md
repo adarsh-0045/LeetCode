@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/adarsh-0045/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/adarsh-0045/LeetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarsh-0045/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarsh-0045/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adarsh-0045/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/adarsh-0045/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adarsh-0045/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/adarsh-0045/LeetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-0045/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adarsh-0045/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ay1874004-svg/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1987-number-of-unique-good-subsequences](https://github.com/adarsh-0045/LeetCode/tree/master/1987-number-of-unique-good-subsequences) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/adarsh-0045/LeetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Queue
 |  |
 | ------- |
