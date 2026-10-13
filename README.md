@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ay1874004-svg/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ay1874004-svg/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/ay1874004-svg/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adarsh-0045/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adarsh-0045/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adarsh-0045/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/adarsh-0045/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ay1874004-svg/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ay1874004-svg/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adarsh-0045/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/adarsh-0045/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarsh-0045/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ay1874004-svg/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ay1874004-svg/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ay1874004-svg/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adarsh-0045/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/adarsh-0045/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adarsh-0045/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
