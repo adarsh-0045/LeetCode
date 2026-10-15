@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/adarsh-0045/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adarsh-0045/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1711-count-good-meals](https://github.com/adarsh-0045/LeetCode/tree/master/1711-count-good-meals) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/adarsh-0045/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ay1874004-svg/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ay1874004-svg/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/adarsh-0045/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1711-count-good-meals](https://github.com/adarsh-0045/LeetCode/tree/master/1711-count-good-meals) |
 | [2351-first-letter-to-appear-twice](https://github.com/adarsh-0045/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarsh-0045/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarsh-0045/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
