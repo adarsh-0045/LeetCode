@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/adarsh-0045/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarsh-0045/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarsh-0045/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adarsh-0045/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2951-find-the-peaks](https://github.com/adarsh-0045/LeetCode/tree/master/2951-find-the-peaks) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adarsh-0045/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ay1874004-svg/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarsh-0045/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarsh-0045/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarsh-0045/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adarsh-0045/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adarsh-0045/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -586,8 +588,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarsh-0045/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adarsh-0045/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarsh-0045/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adarsh-0045/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
