@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarsh-0045/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adarsh-0045/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2951-find-the-peaks](https://github.com/adarsh-0045/LeetCode/tree/master/2951-find-the-peaks) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/adarsh-0045/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adarsh-0045/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ay1874004-svg/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-0045/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2578-split-with-minimum-sum](https://github.com/adarsh-0045/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/adarsh-0045/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/adarsh-0045/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3536-maximum-product-of-two-digits](https://github.com/ay1874004-svg/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adarsh-0045/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarsh-0045/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2578-split-with-minimum-sum](https://github.com/adarsh-0045/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/adarsh-0045/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/adarsh-0045/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adarsh-0045/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarsh-0045/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
