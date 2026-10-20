@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/adarsh-0045/LeetCode/tree/master/0062-unique-paths) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ay1874004-svg/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/adarsh-0045/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/adarsh-0045/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adarsh-0045/LeetCode/tree/master/0342-power-of-four) |
