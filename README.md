@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/adarsh-0045/LeetCode/tree/master/1711-count-good-meals) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/adarsh-0045/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/adarsh-0045/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-0045/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-0045/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-0045/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/adarsh-0045/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2578-split-with-minimum-sum](https://github.com/adarsh-0045/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/adarsh-0045/LeetCode/tree/master/2706-buy-two-chocolates) |
