@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/adarsh-0045/LeetCode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/adarsh-0045/LeetCode/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/adarsh-0045/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/adarsh-0045/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0202-happy-number) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/adarsh-0045/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/adarsh-0045/LeetCode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/adarsh-0045/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/adarsh-0045/LeetCode/tree/master/0260-single-number-iii) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/adarsh-0045/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/adarsh-0045/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/adarsh-0045/LeetCode/tree/master/0089-gray-code) |
 ## Algorithm X
 |  |
 | ------- |
