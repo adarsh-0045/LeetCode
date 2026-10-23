@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/adarsh-0045/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/adarsh-0045/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/adarsh-0045/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-0045/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/adarsh-0045/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adarsh-0045/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/adarsh-0045/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/adarsh-0045/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/adarsh-0045/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/ay1874004-svg/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/adarsh-0045/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/adarsh-0045/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/adarsh-0045/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2351-first-letter-to-appear-twice](https://github.com/adarsh-0045/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ay1874004-svg/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/adarsh-0045/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
