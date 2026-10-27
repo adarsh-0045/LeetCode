@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/adarsh-0045/LeetCode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ay1874004-svg/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ay1874004-svg/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-0045/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adarsh-0045/LeetCode/tree/master/0414-third-maximum-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adarsh-0045/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adarsh-0045/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-0045/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/adarsh-0045/LeetCode/tree/master/0383-ransom-note) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adarsh-0045/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adarsh-0045/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-0045/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adarsh-0045/LeetCode/tree/master/0414-third-maximum-number) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree
 |  |
@@ -523,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/adarsh-0045/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/adarsh-0045/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/adarsh-0045/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -597,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/adarsh-0045/LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -642,4 +649,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarsh-0045/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
