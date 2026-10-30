@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ay1874004-svg/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adarsh-0045/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/adarsh-0045/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adarsh-0045/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarsh-0045/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1987-number-of-unique-good-subsequences](https://github.com/adarsh-0045/LeetCode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/adarsh-0045/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adarsh-0045/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/ay1874004-svg/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/adarsh-0045/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/adarsh-0045/LeetCode/tree/master/2942-find-words-containing-character) |
