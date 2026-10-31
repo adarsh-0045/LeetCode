@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/adarsh-0045/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0398-random-pick-index](https://github.com/adarsh-0045/LeetCode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/adarsh-0045/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ay1874004-svg/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adarsh-0045/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/adarsh-0045/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/adarsh-0045/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0398-random-pick-index](https://github.com/adarsh-0045/LeetCode/tree/master/0398-random-pick-index) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-0045/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ay1874004-svg/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -681,4 +683,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/adarsh-0045/LeetCode/tree/master/2427-number-of-common-factors) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/adarsh-0045/LeetCode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/adarsh-0045/LeetCode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
