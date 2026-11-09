@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/adarsh-0045/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adarsh-0045/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1711-count-good-meals](https://github.com/adarsh-0045/LeetCode/tree/master/1711-count-good-meals) |
+| [1748-sum-of-unique-elements](https://github.com/adarsh-0045/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ay1874004-svg/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/adarsh-0045/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/adarsh-0045/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/adarsh-0045/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/adarsh-0045/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1711-count-good-meals](https://github.com/adarsh-0045/LeetCode/tree/master/1711-count-good-meals) |
+| [1748-sum-of-unique-elements](https://github.com/adarsh-0045/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/adarsh-0045/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarsh-0045/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarsh-0045/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/adarsh-0045/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/adarsh-0045/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1748-sum-of-unique-elements](https://github.com/adarsh-0045/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adarsh-0045/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/adarsh-0045/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarsh-0045/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
