@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adarsh-0045/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adarsh-0045/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/adarsh-0045/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adarsh-0045/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ay1874004-svg/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsh-0045/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adarsh-0045/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/adarsh-0045/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adarsh-0045/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarsh-0045/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adarsh-0045/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/adarsh-0045/LeetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/adarsh-0045/LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3364-minimum-positive-sum-subarray](https://github.com/adarsh-0045/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/adarsh-0045/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adarsh-0045/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## String
