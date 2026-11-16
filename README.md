@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adarsh-0045/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/adarsh-0045/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/adarsh-0045/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/adarsh-0045/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/adarsh-0045/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/adarsh-0045/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
