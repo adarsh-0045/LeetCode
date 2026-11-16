@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/adarsh-0045/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1987-number-of-unique-good-subsequences](https://github.com/adarsh-0045/LeetCode/tree/master/1987-number-of-unique-good-subsequences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/adarsh-0045/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adarsh-0045/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/ay1874004-svg/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/adarsh-0045/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarsh-0045/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/adarsh-0045/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ay1874004-svg/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adarsh-0045/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
