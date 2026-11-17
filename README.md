@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/adarsh-0045/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/adarsh-0045/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/adarsh-0045/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/adarsh-0045/LeetCode/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/adarsh-0045/LeetCode/tree/master/0398-random-pick-index) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/adarsh-0045/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/adarsh-0045/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adarsh-0045/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/adarsh-0045/LeetCode/tree/master/0390-elimination-game) |
 ## Primality Test
 |  |
 | ------- |
