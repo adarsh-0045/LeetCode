@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adarsh-0045/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/ay1874004-svg/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/adarsh-0045/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adarsh-0045/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/adarsh-0045/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarsh-0045/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
