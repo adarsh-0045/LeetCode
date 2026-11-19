@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/adarsh-0045/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adarsh-0045/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/adarsh-0045/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/adarsh-0045/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/adarsh-0045/LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2706-buy-two-chocolates](https://github.com/adarsh-0045/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2761-prime-pairs-with-target-sum](https://github.com/adarsh-0045/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ay1874004-svg/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarsh-0045/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/adarsh-0045/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/adarsh-0045/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2578-split-with-minimum-sum](https://github.com/adarsh-0045/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/adarsh-0045/LeetCode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2706-buy-two-chocolates](https://github.com/adarsh-0045/LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarsh-0045/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/adarsh-0045/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adarsh-0045/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/adarsh-0045/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2578-split-with-minimum-sum](https://github.com/adarsh-0045/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/adarsh-0045/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/adarsh-0045/LeetCode/tree/master/2952-minimum-number-of-coins-to-be-added) |
