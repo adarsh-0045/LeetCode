@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ay1874004-svg/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/ay1874004-svg/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/adarsh-0045/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adarsh-0045/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adarsh-0045/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/adarsh-0045/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/adarsh-0045/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/ay1874004-svg/LeetCode/tree/master/1025-divisor-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adarsh-0045/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/adarsh-0045/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/adarsh-0045/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ay1874004-svg/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ay1874004-svg/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ay1874004-svg/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adarsh-0045/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/adarsh-0045/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/adarsh-0045/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -770,8 +773,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adarsh-0045/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/adarsh-0045/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
