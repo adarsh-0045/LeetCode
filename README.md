@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/adarsh-0045/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarsh-0045/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adarsh-0045/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/adarsh-0045/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/ay1874004-svg/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/adarsh-0045/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adarsh-0045/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/adarsh-0045/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/adarsh-0045/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/adarsh-0045/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ay1874004-svg/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adarsh-0045/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adarsh-0045/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/adarsh-0045/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ay1874004-svg/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/adarsh-0045/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/adarsh-0045/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/adarsh-0045/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/adarsh-0045/LeetCode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/adarsh-0045/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/adarsh-0045/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adarsh-0045/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarsh-0045/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -791,4 +795,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/adarsh-0045/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adarsh-0045/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
